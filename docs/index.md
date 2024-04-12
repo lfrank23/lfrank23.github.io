@@ -7,3 +7,4 @@ permalink: /
 ---
 
 Hello, this is a front page.
+Here's the about page: {{ site.baseurl }}{% link docs/about.md %}
