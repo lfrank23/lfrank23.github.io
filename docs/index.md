@@ -7,4 +7,4 @@ permalink: /
 ---
 
 Hello, this is a front page.
-Here's the about page: [About]({% link about.markdown %})
+Contact page: [Contact]({% link contact.md %})
