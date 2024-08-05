@@ -6,5 +6,5 @@ layout: home
 permalink: /
 ---
 
-Hello, this is a front page.
+Hello! This website is currently under construction.
 Contact page: [Contact]({% link contact.md %})
