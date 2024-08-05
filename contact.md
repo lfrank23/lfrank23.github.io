@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 
-This is not a contact page; this is hardly a page at all!
+This page, like everything else, is a work in progress.
