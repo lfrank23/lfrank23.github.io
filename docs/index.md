@@ -5,4 +5,5 @@
 layout: home
 ---
 
-Is this a page?
+Hello! I'm just about to start my second year of grad school. 
+This website is currently under construction, so there's not much else here. 
