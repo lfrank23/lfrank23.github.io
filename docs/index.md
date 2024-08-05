@@ -6,5 +6,5 @@ layout: home
 permalink: /
 ---
 
-Hello! This website is currently under construction.
+Hello! This website is currently under construction. Come back when there's more to see!
 Contact page: [Contact]({% link contact.md %})
